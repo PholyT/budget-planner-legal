@@ -1,6 +1,6 @@
 # Privacy Policy - Budget Planner
 
-**Last updated: May 22, 2026**
+**Last updated: July 21, 2026**
 
 Budget Planner ("we", "our", or "the app") is a personal finance app that helps you track income, expenses, budgets, bills, debts, savings goals, receipts, and AI-powered money insights. This policy explains what we collect, how we use it, and how you can control your data.
 
@@ -14,6 +14,8 @@ If you use premium features, subscription status is managed through RevenueCat, 
 
 If you use AI features, relevant financial context or receipt images may be sent to an AI provider so the feature can generate a response.
 
+We also collect basic app usage data — which screens you open and when — so we can see which features are used and where the app is confusing. This is stored in our own database, is never shared with or sold to third parties, and never includes amounts, merchant names, or transaction details.
+
 ## How We Use Your Information
 
 We use your data to:
@@ -24,6 +26,7 @@ We use your data to:
 - Process receipt scans and AI Budget Coach requests.
 - Verify premium access and manage subscriptions.
 - Provide support when you contact us.
+- Understand which features are used, so we can improve the app.
 
 We do not sell your personal or financial data.
 
@@ -52,6 +55,8 @@ If you enable reminders, Budget Planner may schedule notifications for bills, bu
 ## Data Retention
 
 We keep your account data while your account is active. If you delete your account in the app, Budget Planner removes your login and associated app data from our servers.
+
+App usage data is kept for up to 90 days and is then deleted automatically. It is removed immediately if you delete your account.
 
 Some purchase history may remain with Apple, Google, or RevenueCat as required for subscription, refund, tax, fraud prevention, or legal recordkeeping.
 
